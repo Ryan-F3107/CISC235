@@ -56,4 +56,5 @@ def main():
     b.contains("cat")
     print(b.__str__())
     b.grab()
-main()
+if __name__== '__main__':
+    main()
